@@ -40,6 +40,7 @@ body {
     align-items: flex-end;
     justify-content: center;
     animation: start-glass 3s var(--cbz) 0s 1;
+    zoom: 140%;
 }
 
 /* @keyframes start-glass {
@@ -383,7 +384,7 @@ input#day-night:checked~.content:after {
     --height: 3.9;
     --width: 10;
     --depth: 52;
-    bottom: 8vmin;
+    bottom: -50vmin;
     left: 25vmin;
 }
 
