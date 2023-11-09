@@ -384,7 +384,7 @@ input#day-night:checked~.content:after {
     --height: 3.9;
     --width: 10;
     --depth: 52;
-    bottom: -50vmin;
+    bottom: 8vmin;
     left: 25vmin;
 }
 
